@@ -1,0 +1,6 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Vorstellung des Projekts}{3}{section.1}
+\contentsline {section}{\numberline {2}GitHub}{3}{section.2}
+\contentsline {section}{\numberline {3}KlassenDiagramme}{4}{section.3}
+\contentsline {section}{\numberline {4}Beschreibung der Methoden}{4}{section.4}
+\contentsline {section}{\numberline {5}JavaDocs Dokumentation}{4}{section.5}
