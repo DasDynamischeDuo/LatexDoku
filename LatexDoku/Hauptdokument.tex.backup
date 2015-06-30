@@ -15,13 +15,7 @@
 \newpage
 
 \input{Sektionen/Einleitung.tex}
-
-\newpage
-
 \input{Sektionen/TechnischeDokumentation.tex}
-
-\newpage
-
 \input{Sektionen/Benutzerhandbuch.tex}
 
 \end{document}
