@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.12)  2 JUL 2015 14:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.12)  4 JUL 2015 12:49
 entering extended mode
 **Hauptdokument.tex
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Hauptdokument.tex
@@ -439,44 +439,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Sektionen/Einleitung.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [3]
-("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+)
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+[3] ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 53--63
+Underfull \hbox (badness 10000) in paragraph at lines 54--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--72
+Underfull \hbox (badness 10000) in paragraph at lines 65--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 74--79
 
  []
 
@@ -597,142 +601,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--330
 
  []
 
-[12] <PDF/Klaviertaste_Gedrueckt.pdf, id=194, 1395.2125pt x 602.25pt>
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
+[12] <./Bilder/Klaviertaste_Gedrueckt.png, id=199, 1395.2125pt x 602.25pt>
+File: ./Bilder/Klaviertaste_Gedrueckt.png Graphic file (type png)
 
-<use PDF/Klaviertaste_Gedrueckt.pdf>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf used on input line 337.
+<use ./Bilder/Klaviertaste_Gedrueckt.png>
+Package pdftex.def Info: ./Bilder/Klaviertaste_Gedrueckt.png used on input line
+ 341.
+(pdftex.def)             Requested size: 460.935pt x 198.96365pt.
+ [13 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Klaviertaste_
+Gedrueckt.png (PNG copy)>]
+<./Bilder/Neues_Projekt.png, id=207, 943.525pt x 572.1375pt>
+File: ./Bilder/Neues_Projekt.png Graphic file (type png)
 
-(pdftex.def)             Requested size: 1395.20909pt x 602.24852pt.
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
- <use PDF/Klaviertaste_Gedrueckt.pdf>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf used on input line 337.
+<use ./Bilder/Neues_Projekt.png>
+Package pdftex.def Info: ./Bilder/Neues_Projekt.png used on input line 352.
+(pdftex.def)             Requested size: 460.935pt x 279.503pt.
+ [14 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Neues_Projekt
+.png (PNG copy)>]
+<./Bilder/Ton_Aufnehmen.png, id=214, 761.84625pt x 663.47874pt>
+File: ./Bilder/Ton_Aufnehmen.png Graphic file (type png)
 
-(pdftex.def)             Requested size: 1395.20909pt x 602.24852pt.
+<use ./Bilder/Ton_Aufnehmen.png>
+Package pdftex.def Info: ./Bilder/Ton_Aufnehmen.png used on input line 366.
+(pdftex.def)             Requested size: 460.935pt x 401.41093pt.
+ [15 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Ton_Aufnehmen
+.png>]
+<./Bilder/tonAbspielen.png, id=223, 1008.76875pt x 532.99126pt>
+File: ./Bilder/tonAbspielen.png Graphic file (type png)
 
-<PDF/Klaviertaste_Gedrueckt.pdf, id=197, page=1, 1395.2125pt x 602.25pt>
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
-
-<use PDF/Klaviertaste_Gedrueckt.pdf, page 1>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf, page1 used on input li
-ne 337.
-(pdftex.def)             Requested size: 1395.20909pt x 602.24852pt.
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
-
-<use PDF/Klaviertaste_Gedrueckt.pdf, page 1>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf, page1 used on input li
-ne 337.
-(pdftex.def)             Requested size: 597.58788pt x 257.95158pt.
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
-
-<use PDF/Klaviertaste_Gedrueckt.pdf, page 1>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf, page1 used on input li
-ne 337.
-(pdftex.def)             Requested size: 597.58788pt x 257.95158pt.
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
-
-<use PDF/Klaviertaste_Gedrueckt.pdf, page 1>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf, page1 used on input li
-ne 337.
-(pdftex.def)             Requested size: 597.58788pt x 257.95158pt.
- [13]
-File: PDF/Klaviertaste_Gedrueckt.pdf Graphic file (type pdf)
-
-<use PDF/Klaviertaste_Gedrueckt.pdf, page 1>
-Package pdftex.def Info: PDF/Klaviertaste_Gedrueckt.pdf, page1 used on input li
-ne 337.
-(pdftex.def)             Requested size: 597.58788pt x 257.95158pt.
- [14 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/PDF/Klaviertaste_Ged
-rueckt.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+<use ./Bilder/tonAbspielen.png>
+Package pdftex.def Info: ./Bilder/tonAbspielen.png used on input line 377.
+(pdftex.def)             Requested size: 460.935pt x 243.53613pt.
+ [16 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/tonAbspielen.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 391--394
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 355.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 402.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)) [15]
+)) [17]
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Sektionen/Benutzerhandbuc
-h.tex <Bilder/Projektbild1.PNG, id=217, 749.80125pt x 460.72125pt>
+h.tex <Bilder/Projektbild1.PNG, id=237, 749.80125pt x 460.72125pt>
 File: Bilder/Projektbild1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild1.PNG>
 Package pdftex.def Info: Bilder/Projektbild1.PNG used on input line 8.
 (pdftex.def)             Requested size: 299.91519pt x 184.28523pt.
- [16 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Projektbild1.
+ [18 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Projektbild1.
 PNG>]
-<Bilder/Projektbild2_1.PNG, id=225, 557.08125pt x 240.14719pt>
+<Bilder/Projektbild2_1.PNG, id=244, 557.08125pt x 240.14719pt>
 File: Bilder/Projektbild2_1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild2_1.PNG>
 Package pdftex.def Info: Bilder/Projektbild2_1.PNG used on input line 26.
 (pdftex.def)             Requested size: 334.25133pt x 144.0894pt.
 
-<Bilder/Projektbild3_1.PNG, id=226, 572.89032pt x 260.47313pt>
+<Bilder/Projektbild3_1.PNG, id=245, 572.89032pt x 260.47313pt>
 File: Bilder/Projektbild3_1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild3_1.PNG>
 Package pdftex.def Info: Bilder/Projektbild3_1.PNG used on input line 37.
 (pdftex.def)             Requested size: 343.73683pt x 156.28508pt.
- [17 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Projektbild2_
+ [19 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Projektbild2_
 1.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Projektbild
-3_1.PNG>]) [18]
-(C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Sektionen/Anhang.tex
-<./PDF/Backlog.pdf, id=244, 597.23125pt x 845.1575pt>
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
- <use ./PDF/Backlog.pdf>
-Package pdftex.def Info: ./PDF/Backlog.pdf used on input line 2.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
-
-<use ./PDF/Backlog.pdf>
-Package pdftex.def Info: ./PDF/Backlog.pdf used on input line 2.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-<./PDF/Backlog.pdf, id=247, page=1, 597.23125pt x 845.1575pt>
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
-
-<use ./PDF/Backlog.pdf, page 1>
-Package pdftex.def Info: ./PDF/Backlog.pdf, page1 used on input line 2.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
- <use ./PDF/Backlog.pdf, page 1>
-Package pdftex.def Info: ./PDF/Backlog.pdf, page1 used on input line 2.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
-
-<use ./PDF/Backlog.pdf, page 1>
-Package pdftex.def Info: ./PDF/Backlog.pdf, page1 used on input line 2.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
- <use ./PDF/Backlog.pdf, page 1>
-Package pdftex.def Info: ./PDF/Backlog.pdf, page1 used on input line 2.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
-File: ./PDF/Backlog.pdf Graphic file (type pdf)
-
-<use ./PDF/Backlog.pdf, page 1>
-Package pdftex.def Info: ./PDF/Backlog.pdf, page1 used on input line 2.
-(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [19 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/PDF/Backlog.pdf>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+3_1.PNG>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
+ [20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
 
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Hauptdokument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 30.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 30.
 Package rerunfilecheck Info: File `Hauptdokument.out' has not changed.
-(rerunfilecheck)             Checksum: F1FF11BDFE200F2A4A493F67EB5FBBF3;767.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
+(rerunfilecheck)             Checksum: 36AA534E3DA2DE634F7EB90C916FB0AF;831.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 30.
  ) 
 Here is how much of TeX's memory you used:
- 8988 strings out of 493921
- 133688 string characters out of 3147279
+ 8998 strings out of 493921
+ 133786 string characters out of 3147279
  217438 words of memory out of 3000000
- 12019 multiletter control sequences out of 15000+200000
+ 12022 multiletter control sequences out of 15000+200000
  13002 words of font info for 34 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 44i,18n,43p,738b,499s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,43p,738b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ectt1200.pk> <C:\Users\Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecbx1440.pk> <C:\Users\Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
@@ -742,9 +696,9 @@ iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Fabian\AppD
 ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\
 Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Hauptdokument.pdf (19 pages, 221693 bytes).
+Output written on Hauptdokument.pdf (20 pages, 321610 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 113 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 

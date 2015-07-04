@@ -284,7 +284,9 @@ abzuspielen.
 \textbf{Storypoints:} 5 \\
 \textbf{Bearbeitet von:} Emanuel Hubenschmid \\
 \\
-\textbf{Beschreibung:} 
+\textbf{Beschreibung:} Am einfachsten und übersichtlichsten erwies es sich, eigene Samples nur mit 
+einem Projekt verwenden zu können. Diese sind dabei immer in dem Projekt-Ortner unter Samples in 
+einem Ortner abzuspeichern.
 
 
 \subsubsection{Der Benutzer möchte einen Projektordner erzeugen können}
@@ -296,7 +298,8 @@ abzuspielen.
 \textbf{Storypoints:} 8 \\
 \textbf{Bearbeitet von:} Emanuel Hubenschmid \\
 \\
-\textbf{Beschreibung:} 
+\textbf{Beschreibung:} Wird ein neues Projekt erstellt speichert dies nur den Ordnerpfad in dem 
+sich die Samples und Aufnahmen befinden.
 
 
 \subsubsection{Der Benutzer möchte das die Note einer Taste auf der Taste angezeigt wird}
@@ -322,7 +325,8 @@ abzuspielen.
 \textbf{Storypoints:} 5 \\
 \textbf{Bearbeitet von:} Emanuel Hubenschmid \\
 \\
-\textbf{Beschreibung:} 
+\textbf{Beschreibung:} Ist ein Radiobutton ausgewählt wird der Ordnerpfad 
+des jeweiligen Samples benutzt um den Clip zu starten.
 
 
 \newpage
@@ -330,7 +334,37 @@ abzuspielen.
 
 \subsection{Klassendiagramme}
 \subsection{Sequenzdiagramme}
-\includepdf{PDF/Klaviertaste_Gedrueckt.pdf}
+
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=1\textwidth]{./Bilder/Klaviertaste_Gedrueckt.png}
+ \caption{Sequenzdiagramm für das Abspielen eines Tones}
+\end{figure}
+
+
+\newpage
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=1\textwidth]{./Bilder/Neues_Projekt.png}
+ \caption{Sequenzdiagramm für das Abspielen eines Tones}
+\end{figure}
+
+\newpage
+
+\subsection{Struktogramme}
+
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=1\textwidth]{./Bilder/Ton_Aufnehmen.png}
+ \caption{Sequenzdiagramm für das Abspielen eines Tones}
+\end{figure}
+
+
+\newpage
+
 
 \subsection{Beschreibung einiger Methoden}
 
