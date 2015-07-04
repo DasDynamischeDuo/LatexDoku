@@ -13,11 +13,11 @@
 \contentsline {subsubsection}{\numberline {2.1.4}Der Benutzer m\IeC {\"o}chte mittels Tasten (Tastatur) einen Klavierton abspielen}{7}{subsubsection.2.1.4}
 \contentsline {subsubsection}{\numberline {2.1.5}Der Programmierer arbeitet sich in Git-Hub ein}{7}{subsubsection.2.1.5}
 \contentsline {subsubsection}{\numberline {2.1.6}Der Programmierer arbeitet sich in Javadocs ein}{7}{subsubsection.2.1.6}
-\contentsline {subsubsection}{\numberline {2.1.7}Der Benutzer "m\IeC {\"o}chte, dass die gespielte Taste hervorgehoben wird}{7}{subsubsection.2.1.7}
+\contentsline {subsubsection}{\numberline {2.1.7}Der Benutzer m\IeC {\"o}chte, dass die gespielte Taste hervorgehoben wird}{7}{subsubsection.2.1.7}
 \contentsline {subsubsection}{\numberline {2.1.8}Der Benutzer m\IeC {\"o}chte voreingestellte Samples ausw\IeC {\"a}hlen k\IeC {\"o}nnen}{8}{subsubsection.2.1.8}
 \contentsline {subsubsection}{\numberline {2.1.9}Der Benutzer m\IeC {\"o}chte mehrere T\IeC {\"o}ne gleichzeitig spielen k\IeC {\"o}nnen}{8}{subsubsection.2.1.9}
 \contentsline {subsubsection}{\numberline {2.1.10}Der Benutzer m\IeC {\"o}chte, dass in der oberen Sektion Notenlinien angezeigt werden}{8}{subsubsection.2.1.10}
-\contentsline {subsubsection}{\numberline {2.1.11}Der Benutzer m\IeC {\"o}chte Notenlinien, auf denen Noten angezeigt und abgespeichert werden}{9}{subsubsection.2.1.11}
+\contentsline {subsubsection}{\numberline {2.1.11}Der Benutzer m\IeC {\"o}chte Notenlbl\IeC {\"a}tter, auf denen Noten angezeigt und abgespeichert werden}{9}{subsubsection.2.1.11}
 \contentsline {subsubsection}{\numberline {2.1.12}Der Benutzer m\IeC {\"o}chte das gespielte T\IeC {\"o}ne als Note angezeigt werden}{9}{subsubsection.2.1.12}
 \contentsline {subsubsection}{\numberline {2.1.13}Der Benutzer m\IeC {\"o}chte das gespeicherte Notenlinien in einem externen Fenster aufgerufen werden k\IeC {\"o}nnen}{9}{subsubsection.2.1.13}
 \contentsline {subsubsection}{\numberline {2.1.14}Der Benutzer m\IeC {\"o}chte gespeicherte Notenlinien abspielen}{9}{subsubsection.2.1.14}
@@ -37,8 +37,8 @@
 \contentsline {section}{\numberline {3}Benutzerhandbuch}{16}{section.3}
 \contentsline {subsection}{\numberline {3.1}Einleitung}{16}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Projekt}{16}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Erstellen}{16}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}\IeC {\"O}ffnen}{16}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Aufnehmen}{16}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}Apsielen}{16}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}Eigene Samples}{16}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.1}Erstellen}{17}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}\IeC {\"O}ffnen}{17}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Aufnehmen}{18}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Abspielen}{18}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Eigene Samples}{18}{subsubsection.3.2.5}
