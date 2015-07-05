@@ -31,19 +31,19 @@
 \contentsline {subsubsection}{\numberline {2.1.22}Der Benutzer m\IeC {\"o}chte das die Note einer Taste auf der Taste angezeigt wird}{12}{subsubsection.2.1.22}
 \contentsline {subsubsection}{\numberline {2.1.23}Der Benutzer m\IeC {\"o}chte die Samples wechseln}{12}{subsubsection.2.1.23}
 \contentsline {subsection}{\numberline {2.2}Klassendiagramme}{13}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Sequenzdiagramme}{13}{subsection.2.3}
-\contentsline {paragraph}{Beschreibung:}{13}{section*.2}
-\contentsline {paragraph}{Beschreibung:}{14}{section*.3}
-\contentsline {subsection}{\numberline {2.4}Struktogramme}{15}{subsection.2.4}
-\contentsline {paragraph}{Beschreibung:}{15}{section*.4}
-\contentsline {paragraph}{Beschreibung:}{16}{section*.5}
-\contentsline {subsection}{\numberline {2.5}Beschreibung einiger Methoden}{17}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Javadocs}{17}{subsection.2.6}
-\contentsline {section}{\numberline {3}Benutzerhandbuch}{18}{section.3}
-\contentsline {subsection}{\numberline {3.1}Einleitung}{18}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Projekt}{18}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Erstellen}{19}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}\IeC {\"O}ffnen}{20}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Aufnehmen}{21}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}Abspielen}{22}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}Eigene Samples}{23}{subsubsection.3.2.5}
+\contentsline {subsection}{\numberline {2.3}Sequenzdiagramme}{14}{subsection.2.3}
+\contentsline {paragraph}{Beschreibung:}{14}{section*.2}
+\contentsline {paragraph}{Beschreibung:}{15}{section*.3}
+\contentsline {subsection}{\numberline {2.4}Struktogramme}{16}{subsection.2.4}
+\contentsline {paragraph}{Beschreibung:}{16}{section*.4}
+\contentsline {paragraph}{Beschreibung:}{17}{section*.5}
+\contentsline {subsection}{\numberline {2.5}Beschreibung einiger Methoden}{18}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Javadocs}{18}{subsection.2.6}
+\contentsline {section}{\numberline {3}Benutzerhandbuch}{19}{section.3}
+\contentsline {subsection}{\numberline {3.1}Einleitung}{19}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Projekt}{19}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Erstellen}{20}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}\IeC {\"O}ffnen}{21}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Aufnehmen}{22}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Abspielen}{23}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Eigene Samples}{24}{subsubsection.3.2.5}

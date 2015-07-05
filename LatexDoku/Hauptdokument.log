@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.12)  5 JUL 2015 17:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.12)  5 JUL 2015 18:32
 entering extended mode
 **Hauptdokument.tex
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Hauptdokument.tex
@@ -272,8 +272,8 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package color Info: Redefining color black on input line 38.
-Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+Package color Info: Redefining color black on input line 39.
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip50
@@ -318,7 +318,7 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 68.
+Package hyperref Info: Option `colorlinks' set `true' on input line 69.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2015/06/15 v0.4y Insert pages of external PDF documents (AM)
@@ -412,9 +412,9 @@ LaTeX Info: Redefining \nameref on input line 6.
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Hauptdokument.out)
 \@outlinefile=\write4
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 12.
 
 [1
 
@@ -595,107 +595,130 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--330
 
  []
 
-[12] <./Bilder/Klaviertaste_Gedrueckt.png, id=199, 1395.2125pt x 602.25pt>
+[12] <Bilder/GUIKlassendia/TeilOben.PNG, id=199, 870.25125pt x 542.025pt>
+File: Bilder/GUIKlassendia/TeilOben.PNG Graphic file (type png)
+
+<use Bilder/GUIKlassendia/TeilOben.PNG>
+Package pdftex.def Info: Bilder/GUIKlassendia/TeilOben.PNG used on input line 3
+38.
+(pdftex.def)             Requested size: 435.12456pt x 271.01183pt.
+
+<Bilder/GUIKlassendia/TeilUnten.PNG, id=201, 928.97063pt x 472.76625pt>
+File: Bilder/GUIKlassendia/TeilUnten.PNG Graphic file (type png)
+
+<use Bilder/GUIKlassendia/TeilUnten.PNG>
+Package pdftex.def Info: Bilder/GUIKlassendia/TeilUnten.PNG used on input line 
+341.
+(pdftex.def)             Requested size: 464.48418pt x 236.38254pt.
+
+Overfull \hbox (3.54918pt too wide) in paragraph at lines 341--342
+ [][] 
+ []
+
+[13 <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/GUIKlassendia/
+TeilOben.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/GUIK
+lassendia/TeilUnten.PNG>]
+<./Bilder/Klaviertaste_Gedrueckt.png, id=209, 1395.2125pt x 602.25pt>
 File: ./Bilder/Klaviertaste_Gedrueckt.png Graphic file (type png)
 
 <use ./Bilder/Klaviertaste_Gedrueckt.png>
 Package pdftex.def Info: ./Bilder/Klaviertaste_Gedrueckt.png used on input line
- 341.
+ 352.
 (pdftex.def)             Requested size: 460.935pt x 198.96365pt.
- [13pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.348 \newpage
-               <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Kla
-viertaste_Gedrueckt.png (PNG copy)>]
-<./Bilder/Neues_Projekt.png, id=207, 943.525pt x 572.1375pt>
-File: ./Bilder/Neues_Projekt.png Graphic file (type png)
-
-<use ./Bilder/Neues_Projekt.png>
-Package pdftex.def Info: ./Bilder/Neues_Projekt.png used on input line 352.
-(pdftex.def)             Requested size: 460.935pt x 279.503pt.
- [14pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.359 \newpage
+               <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Kla
+viertaste_Gedrueckt.png (PNG copy)>]
+<./Bilder/Neues_Projekt.png, id=216, 943.525pt x 572.1375pt>
+File: ./Bilder/Neues_Projekt.png Graphic file (type png)
+
+<use ./Bilder/Neues_Projekt.png>
+Package pdftex.def Info: ./Bilder/Neues_Projekt.png used on input line 363.
+(pdftex.def)             Requested size: 460.935pt x 279.503pt.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.370 \newpage
                <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Neu
 es_Projekt.png (PNG copy)>]
-<./Bilder/Ton_Aufnehmen.png, id=214, 761.84625pt x 663.47874pt>
+<./Bilder/Ton_Aufnehmen.png, id=223, 761.84625pt x 663.47874pt>
 File: ./Bilder/Ton_Aufnehmen.png Graphic file (type png)
 
 <use ./Bilder/Ton_Aufnehmen.png>
-Package pdftex.def Info: ./Bilder/Ton_Aufnehmen.png used on input line 366.
+Package pdftex.def Info: ./Bilder/Ton_Aufnehmen.png used on input line 377.
 (pdftex.def)             Requested size: 460.935pt x 401.41093pt.
- [15pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.373 \newpage
+l.384 \newpage
                <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Ton
 _Aufnehmen.png>]
-<./Bilder/tonAbspielen.png, id=223, 1008.76875pt x 532.99126pt>
+<./Bilder/tonAbspielen.png, id=231, 1008.76875pt x 532.99126pt>
 File: ./Bilder/tonAbspielen.png Graphic file (type png)
 
 <use ./Bilder/tonAbspielen.png>
-Package pdftex.def Info: ./Bilder/tonAbspielen.png used on input line 377.
+Package pdftex.def Info: ./Bilder/tonAbspielen.png used on input line 388.
 (pdftex.def)             Requested size: 460.935pt x 243.53613pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.383 \newpage
+l.394 \newpage
                <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/ton
 Abspielen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 391--394
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 402.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 413.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)) [17]
+)) [18]
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Sektionen/Benutzerhandbuc
-h.tex <Bilder/Projektbild1.PNG, id=237, 749.80125pt x 460.72125pt>
+h.tex <Bilder/Projektbild1.PNG, id=245, 749.80125pt x 460.72125pt>
 File: Bilder/Projektbild1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild1.PNG>
 Package pdftex.def Info: Bilder/Projektbild1.PNG used on input line 8.
 (pdftex.def)             Requested size: 449.88422pt x 276.43488pt.
- [18pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.17 \newpage
               <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Proj
-ektbild1.PNG>] <Bilder/Projektbild2_1.PNG, id=244, 557.08125pt x 240.14719pt>
+ektbild1.PNG>] <Bilder/Projektbild2_1.PNG, id=253, 557.08125pt x 240.14719pt>
 File: Bilder/Projektbild2_1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild2_1.PNG>
 Package pdftex.def Info: Bilder/Projektbild2_1.PNG used on input line 25.
 (pdftex.def)             Requested size: 225.86067pt x 97.36166pt.
 
-<Bilder/ProjektEingabeName.PNG, id=245, 257.46187pt x 104.64093pt>
+<Bilder/ProjektEingabeName.PNG, id=254, 257.46187pt x 104.64093pt>
 File: Bilder/ProjektEingabeName.PNG Graphic file (type png)
 
 <use Bilder/ProjektEingabeName.PNG>
 Package pdftex.def Info: Bilder/ProjektEingabeName.PNG used on input line 26.
 (pdftex.def)             Requested size: 225.86067pt x 91.79848pt.
 
-<Bilder/ProjektSpeichern.PNG, id=246, 392.21532pt x 277.035pt>
+<Bilder/ProjektSpeichern.PNG, id=255, 392.21532pt x 277.035pt>
 File: Bilder/ProjektSpeichern.PNG Graphic file (type png)
 
 <use Bilder/ProjektSpeichern.PNG>
 Package pdftex.def Info: Bilder/ProjektSpeichern.PNG used on input line 34.
 (pdftex.def)             Requested size: 392.21436pt x 277.03432pt.
- [19pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -711,13 +734,13 @@ l.43
 _1.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/ProjektEin
 gabeName.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Proj
 ektSpeichern.PNG>]
-<Bilder/Projektbild3_1.PNG, id=261, 572.89032pt x 260.47313pt>
+<Bilder/Projektbild3_1.PNG, id=269, 572.89032pt x 260.47313pt>
 File: Bilder/Projektbild3_1.PNG Graphic file (type png)
 
 <use Bilder/Projektbild3_1.PNG>
 Package pdftex.def Info: Bilder/Projektbild3_1.PNG used on input line 46.
 (pdftex.def)             Requested size: 343.73683pt x 156.28508pt.
- [20pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -725,7 +748,7 @@ Package pdftex.def Info: Bilder/Projektbild3_1.PNG used on input line 46.
 l.50 \newpage
               <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/Proj
 ektbild3_1.PNG>]
-<Bilder/Projektbild4_Dateiname.PNG, id=269, 402.00188pt x 94.10156pt>
+<Bilder/Projektbild4_Dateiname.PNG, id=277, 402.00188pt x 94.10156pt>
 File: Bilder/Projektbild4_Dateiname.PNG Graphic file (type png)
 
 <use Bilder/Projektbild4_Dateiname.PNG>
@@ -733,14 +756,14 @@ Package pdftex.def Info: Bilder/Projektbild4_Dateiname.PNG used on input line 6
 0.
 (pdftex.def)             Requested size: 225.86067pt x 52.8688pt.
 
-<Bilder/Projektbild4_Tempo.PNG, id=270, 383.18156pt x 101.62968pt>
+<Bilder/Projektbild4_Tempo.PNG, id=278, 383.18156pt x 101.62968pt>
 File: Bilder/Projektbild4_Tempo.PNG Graphic file (type png)
 
 <use Bilder/Projektbild4_Tempo.PNG>
 Package pdftex.def Info: Bilder/Projektbild4_Tempo.PNG used on input line 61.
 (pdftex.def)             Requested size: 225.86067pt x 59.90515pt.
 
-<Bilder/Projektbild4_AufnehmenButton.PNG, id=271, 385.44pt x 115.18031pt>
+<Bilder/Projektbild4_AufnehmenButton.PNG, id=279, 385.44pt x 115.18031pt>
 File: Bilder/Projektbild4_AufnehmenButton.PNG Graphic file (type png)
 
 <use Bilder/Projektbild4_AufnehmenButton.PNG>
@@ -752,13 +775,13 @@ Overfull \hbox (1.22826pt too wide) in paragraph at lines 60--63
 [][] [][]
  []
 
-<Bilder/Projektbild4_Stop.PNG, id=272, 363.60844pt x 93.34875pt>
+<Bilder/Projektbild4_Stop.PNG, id=280, 363.60844pt x 93.34875pt>
 File: Bilder/Projektbild4_Stop.PNG Graphic file (type png)
 
 <use Bilder/Projektbild4_Stop.PNG>
 Package pdftex.def Info: Bilder/Projektbild4_Stop.PNG used on input line 70.
 (pdftex.def)             Requested size: 363.60754pt x 93.34851pt.
- [21pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+ [22pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -775,14 +798,14 @@ ektbild4_Dateiname.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/B
 ilder/Projektbild4_Tempo.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/Latex
 Doku/Bilder/Projektbild4_AufnehmenButton.PNG> <C:/Users/Fabian/Documents/GitHub
 /LatexDoku/LatexDoku/Bilder/Projektbild4_Stop.PNG>]
-<Bilder/AbspielenBild.PNG, id=287, 391.4625pt x 275.52937pt>
+<Bilder/AbspielenBild.PNG, id=295, 391.4625pt x 275.52937pt>
 File: Bilder/AbspielenBild.PNG Graphic file (type png)
 
 <use Bilder/AbspielenBild.PNG>
 Package pdftex.def Info: Bilder/AbspielenBild.PNG used on input line 83.
 (pdftex.def)             Requested size: 313.17041pt x 220.42378pt.
 
-<Bilder/abspielenbsp.PNG, id=288, 235.63031pt x 108.405pt>
+<Bilder/abspielenbsp.PNG, id=296, 235.63031pt x 108.405pt>
 File: Bilder/abspielenbsp.PNG Graphic file (type png)
 
 <use Bilder/abspielenbsp.PNG>
@@ -793,7 +816,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-[22pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -809,7 +832,7 @@ l.107    \item[•]
                     Die Töne des Samples müssen 8 oder 16 bit lang sein. <C:/
 Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/AbspielenBild.PNG> <C:
 /Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilder/abspielenbsp.PNG>]
-[23] <Bilder/SampleDropdown.PNG, id=303, 371.88937pt x 91.84312pt>
+[24] <Bilder/SampleDropdown.PNG, id=311, 371.88937pt x 91.84312pt>
 File: Bilder/SampleDropdown.PNG Graphic file (type png)
 
 <use Bilder/SampleDropdown.PNG>
@@ -820,7 +843,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-<Bilder/Projektbild1EigenesSample.PNG, id=304, 749.80125pt x 460.72125pt>
+<Bilder/Projektbild1EigenesSample.PNG, id=312, 749.80125pt x 460.72125pt>
 File: Bilder/Projektbild1EigenesSample.PNG Graphic file (type png)
 
 <use Bilder/Projektbild1EigenesSample.PNG>
@@ -828,36 +851,36 @@ Package pdftex.def Info: Bilder/Projektbild1EigenesSample.PNG used on input lin
 e 161.
 (pdftex.def)             Requested size: 449.88422pt x 276.43488pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
- [24pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.13
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.30 \end{document}
+l.31 \end{document}
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{figure.14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.30 \end{document}
+l.31 \end{document}
                     <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bilde
 r/SampleDropdown.PNG> <C:/Users/Fabian/Documents/GitHub/LatexDoku/LatexDoku/Bil
 der/Projektbild1EigenesSample.PNG>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
 
 (C:\Users\Fabian\Documents\GitHub\LatexDoku\LatexDoku\Hauptdokument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 30.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 30.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
 Package rerunfilecheck Info: File `Hauptdokument.out' has not changed.
 (rerunfilecheck)             Checksum: 36AA534E3DA2DE634F7EB90C916FB0AF;831.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 30.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 8171 strings out of 493921
- 118487 string characters out of 3147279
+ 8183 strings out of 493921
+ 118846 string characters out of 3147279
  200878 words of memory out of 3000000
- 11170 multiletter control sequences out of 15000+200000
+ 11178 multiletter control sequences out of 15000+200000
  13765 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  32i,12n,43p,738b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -872,9 +895,9 @@ Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk>
  <C:\Users\Fabian\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 crm2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on Hauptdokument.pdf (24 pages, 420409 bytes).
+Output written on Hauptdokument.pdf (25 pages, 572363 bytes).
 PDF statistics:
- 676 PDF objects out of 1000 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 685 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
