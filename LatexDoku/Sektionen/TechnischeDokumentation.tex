@@ -40,7 +40,7 @@
 \textbf{Storypoints:} 5 \\
 \textbf{Bearbeitet von:} Fabian Zeller \\
 \\
-\textbf{Beschreibung:} Die Klaviertasten bestehen aus jeweils 8 bis 14 kleineren Toggle Buttons. Dies wurden so konfiguriert dass sie wie Klaviertasten aussehen. 
+\textbf{Beschreibung:} Die Klaviertasten bestehen aus jeweils      bis    kleineren Toggle Buttons. Dies wurden so konfiguriert dass sie wie Klaviertasten aussehen. 
 
 
 \subsubsection{Der Benutzer möchte mittels Tasten (Tastatur) einen Klavierton abspielen}
@@ -96,7 +96,7 @@ Bildschirm
 \textbf{Storypoints:} 5 \\
 \textbf{Bearbeitet von:} Fabian Zeller \\
 \\
-\textbf{Beschreibung:} Um eine gespielte Taste besser zu visualisieren. Der Taste auf der Tastatur wird eine Gruppe von Toggle Buttons zugewiesen, die dann wie eine taste von einem Klavier aussehen. Diese werden dann betätigt.
+\textbf{Beschreibung:} Der Taste auf der Tastatur wird eine Gruppe von Toggle Buttons zugewiesen, die dann wie eine taste von einem Klavier aussehen. Diese werden dann betätigt.
 
 
 \subsubsection{Der Benutzer möchte voreingestellte Samples auswählen können}
@@ -311,7 +311,7 @@ sich die Samples und Aufnahmen befinden.
 \textbf{Storypoints:} 5 \\
 \textbf{Bearbeitet von:} Fabian Zeller \\
 \\
-\textbf{Beschreibung:} Eine Glasspane mit entsprechender Beschriftung wurde über die GUI gelegt. Die GlassPane wurde speziell für die GUI angepasst und verhindert auch jegliche unerwünschte Interaktion.
+\textbf{Beschreibung:} Eine Glasspane mit entsprechender Beschriftung wurde über die GUI gelegt.
 
 
 \subsubsection{Der Benutzer möchte die Samples wechseln}
@@ -331,7 +331,6 @@ des jeweiligen Samples benutzt um den Clip zu starten.
 
 \newpage
 
-
 \subsection{Klassendiagramme}
 
 {\centering
@@ -344,6 +343,8 @@ des jeweiligen Samples benutzt um den Clip zu starten.
 
 \newpage
 
+\newpage
+
 \subsection{Sequenzdiagramme}
 
 
@@ -353,7 +354,28 @@ des jeweiligen Samples benutzt um den Clip zu starten.
  \caption{Sequenzdiagramm für das Abspielen eines Tones}
 \end{figure}
 
-\paragraph{Beschreibung:} 
+fehler verbessern
+
+\paragraph{Beschreibung:} In diesem Szenario will der Benutzer das untere Cis des Piano Samples 
+abspielen. Als erstes startet dieser das Programm und erzeugt dadurch ein Gui-Objekt. Als nächstes 
+wählt er das Piano Sample über die Radiobutton aus (Piano ist zu Begin ausgewählt). Drückt der 
+Benutzer nun die A-Taste wird der Ton abgespielt.\\
+Damit der Ton abgespielt werden kann benötigt das Programm ein TastenListener-Objekt welches 
+ständig abprüft, ob eine der, mit Tönen belegten Tasten, gedrückt wurde. Dieses Objekt wird im 
+Konstruktor der Gui erzeugt.\\
+Um nun einen Ton starten zu können, wird ein SampleStarten-Objekt benötigt. Dies wird im 
+Konstruktor des TastenListener-Objektes erzeugt.\\
+Wird nun die A-Taste gedrückt, sucht die Methode getIntVonKey(KeyEvent keyEvent) in der Klasse 
+Klaviertasten, den der Taste zugewiesene Integer-Wert (die A-Taste hat den Wert 1). Mit diesem Wert 
+kann man nun das Array istTasteGedrückt an der stelle 2 auf true setzten.\\
+Der TastenListener prüft dabei Ständig ab welche Tasten gedrückt wurde. Wurde eine Taste gedrückt 
+frägt er noch das dabei ausgewählte Sample ab.\\
+Diese Informationen schickt der TastenListener dann zu dem SampleStarten-Objekt. Welches 
+wiederum, in einem Vektor, ein SampleAbspielen-Objekt erzeugt und anschließend über die Methode 
+tonAbspielen den Ton abspielt.\\
+Sobald der Ton abgespielt wurde löscht sich das SampleAbspielen-Objekt wieder aus dem Array.
+Wie der Ton in dem SampleAbspielen-Objekt funktioniert können sie der \textbf{Abbildung 
+\ref{fig:tonAbspielen}} entnehmen.
 
 
 \newpage
@@ -361,10 +383,17 @@ des jeweiligen Samples benutzt um den Clip zu starten.
 \begin{figure}[h]
  \centering
  \includegraphics[width=1\textwidth]{./Bilder/Neues_Projekt.png}
- \caption{Sequenzdiagramm für das Abspielen eines Tones}
+ \caption{Sequenzdiagramm für erstellen eines neuen Projektes}
 \end{figure}
 
-\paragraph{Beschreibung:} 
+\paragraph{Beschreibung:} In diesem Szenario will der Benutzer ein neues Projekt erstellen. Nach 
+dem Starten des Programmes und erzeugen eines Gui-Pbjektes klickt der Benutzer auf das Menü ``Neues 
+Projekt'' in der ToolBar. Als nächstes gibt dieser den Namen des Projektes in einem Dialog ein und 
+wählt anschließend den Dateipfad über einen FileChooser aus. Mit diesen Informationen kann nun ein 
+BenutzerProjekt-Objekt erzeugt werden. Der Konstruktor der BenutzerProjekt-Klasse erzeugt dann 
+einen Projekt-Ordner und in diesem ein Aufnahme-Ordner, Samples-Ordner und eine projectfile.bin 
+datei. mit dem BenutzerProjekt-Objekt kann nun die ProjektGui gestartet werden.\\
+
 
 
 \newpage
@@ -375,10 +404,16 @@ des jeweiligen Samples benutzt um den Clip zu starten.
 \begin{figure}[h]
  \centering
  \includegraphics[width=1\textwidth]{./Bilder/Ton_Aufnehmen.png}
- \caption{Sequenzdiagramm für das Abspielen eines Tones}
+ \caption{Struktogramm für das Aufnehmen eines Tones}
 \end{figure}
 
-\paragraph{Beschreibung:} 
+\paragraph{Beschreibung:} Am Anfang der run()-Methode wird die Zeit für die Pause zwischen zwei 
+16tel berechnet. Anschließend spielt die Methode 4 Metronomschläge in 4tel abständen ab. Wird kein 
+Ton abgespielt, schreibt die Methode einen Bindestrich in die Aktuelle Zeile des Textdokumentes und 
+wartet eine 16tel-Pause.\\
+Wird ein Ton gespielt, schreibt die Methode dessen ID-Nummer in das Textdokument (bei einstelligen 
+Zahlen eine Null voran gestellt werde).\\
+
 
 
 \newpage
@@ -386,10 +421,12 @@ des jeweiligen Samples benutzt um den Clip zu starten.
 \begin{figure}[h]
  \centering
  \includegraphics[width=1\textwidth]{./Bilder/tonAbspielen.png}
- \caption{Sequenzdiagramm für das Abspielen eines Tones}
+ \caption{Struktogramm für das Abspielen eines Tones} \label{fig:tonAbspielen}
 \end{figure}
 
-\paragraph{Beschreibung:} 
+\paragraph{Beschreibung:} In dieser Methode wird ein Clip erzeugt und gestartet. Allerdings müssen 
+Dateien aus dem Javaprojekt-Ordner anderst geöffnet werden als Dateien die auserhalb des 
+Javaprojekts.
 
 \newpage
 
@@ -411,3 +448,7 @@ funktion die einzelnen Methoden erfüllen, sowie ihre Übergabe- und Rückgabepa
 Exeptions  eingesehen werden.\\
 Die komplette Javadocs Dokumentation kann hier geöffnet werden:\\
 \url{./JavaDocs/index.html}
+
+
+
+
